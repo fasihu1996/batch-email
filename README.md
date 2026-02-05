@@ -5,6 +5,7 @@ possible attachement. Keeping possible rate limits in mind, a delay of 1 second 
 
 ## How to use
 + Clone the repository and add the required values to the `.env` file in the project directory
++ Create a directory in the project called "pdfs"
 + Make sure that the PDF folder contains the matching PDF files with the pattern of `lastname_firstname.pdf`
 + Customise the Excel spreadsheet path to point to your desired sheet
   + The expected column headers are "Last name", "First name" and "email"
